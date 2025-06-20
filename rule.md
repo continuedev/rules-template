@@ -6,4 +6,4 @@ alwaysApply: true
 
 # Example markdown
 
-This is where you can write your first rule
+This is where you can write your first rule.
